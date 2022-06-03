@@ -27,7 +27,7 @@ The main objective of this project is to develop a machine learning model to pre
 - [Salma Ayman](https://github.com/SalmaAlassal)
 - [Mariam Ahmed](https://github.com/MariamAhmeddd)
 - [Mohamed Salah](https://github.com/itsmosalah)
-- [Mohamed Nasr](https://github.com/elsheikh0)
+- [Mohamed ElSheikh](https://github.com/elsheikh0)
 - [Abdelrahman Ashraf](https://github.com/AbdelrahmanKhatab9)
 - Ahmed Ayman
 
